@@ -1,0 +1,2 @@
+/*! iconagency.com.au */
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{105:function(n,t,i){"use strict";i.r(t),i.d(t,"default",(function(){return p}));var e=i(121),r=i.n(e),l=i(122),s=i.n(l),a=i(127),u=i.n(a),c=i(228),o=i.n(c),p=function(){function n(){r()(this,n),this.playerList=document.querySelectorAll(".plyr-player"),this.playerList.length>0&&this.initPlayers()}return s()(n,[{key:"initPlayers",value:function(){var n;u()(n=this.playerList).call(n,(function(n){new o.a(n)}))}}]),n}()}}]);

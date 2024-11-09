@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 991.7 550.1" style="enable-background:new 0 0 991.7 550.1;" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="gaussian-blur-filter-1" color-interpolation-filters="sRGB" x="-500%" y="-500%" width="1000%" height="1000%">
+      <feGaussianBlur stdDeviation="100 100" edgeMode="none"/>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="537.894" y1="535.843" x2="537.894" y2="830.011" id="gradient-2" gradientTransform="matrix(0.36949, 0.929235, -0.492754, 0.195933, 432.700833, -152.46826)">
+      <stop offset="0" style="stop-color: rgb(255, 255, 255);"/>
+      <stop offset="1" style="stop-color: rgb(240, 240, 240);"/>
+    </linearGradient>
+    <style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+</style>
+  </defs>
+  <path class="st0" d="M 48.885 599.524 L 362.57 267.678 C 399.641 228.348 448.331 208.683 497.021 208.683 C 545.711 208.683 594.296 228.348 631.473 267.566 L 945.158 599.412 L 48.885 599.524 Z" style="filter: url(#gaussian-blur-filter-1); opacity: 0.54; fill: rgb(177, 177, 177); fill-opacity: 0.67;"/>
+  <path class="st0" d="M 132.71 549.328 L 382.475 299.563 C 411.993 269.961 450.761 255.16 489.53 255.16 C 528.298 255.16 566.982 269.961 596.584 299.479 L 846.349 549.244 L 132.71 549.328 Z" style="fill-opacity: 0.36; fill: url(#gradient-2);"/>
+</svg>
